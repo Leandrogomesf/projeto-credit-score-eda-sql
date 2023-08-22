@@ -26,4 +26,4 @@ ___
 |qtd_transacoes_12m  | quantidade de transacoes dos ultimos 12 meses | inteiro|
 
 ______
-A tabela foi criada no **PostgreSQL** com uma versão dos dados disponibilizados em:
+A tabela foi criada no **PostgreSQL** com uma versão dos dados disponibilizados em: https://github.com/Leandrogomesf/projeto-credit-score-eda-sql/blob/main/SQL_M8_support%20material_exercise_credit.csv
